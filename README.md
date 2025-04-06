@@ -90,6 +90,10 @@ For API-based interactions, the following endpoints are available:
 - `POST /register` - Create a new account
 - `GET /admin/products` - Manage products (Admin only)
 
+## IMPORTANT MESSAGE
+After the project is downloaded or cloned, make sure to unzip all the files given at the repository and put the files in the correct order to run the program.
+The reason is there are too much of files and the folder is out of range given by the github developers (project size: 52mb).
+
 ## Contact
 For any issues, contact us at [lazarusrolando399@gmail.com](mailto:lazarusrolando399@gmail.com).
 
