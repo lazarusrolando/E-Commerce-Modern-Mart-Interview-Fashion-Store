@@ -1,7 +1,5 @@
 Below is an updated version of your README with your logo featured prominently at the top. Simply place your logo file (e.g., `logo.png`) in the project directory (or an appropriate subfolder) and adjust the image path if necessary.
 
-```markdown
-<!-- Logo at the top -->
 <p align="center">
   <img src="logo.png" alt="E-Commerce Modern Mart Logo" width="200">
 </p>
@@ -78,7 +76,6 @@ From sleek suits to subtle jewelry, this platform offers a smooth and intuitive 
 ---
 
 ## 📁 Project Structure
-```
 📦 E-Commerce-Modern-Mart
 ├── 📄 index.html
 ├── 📁 styles/
