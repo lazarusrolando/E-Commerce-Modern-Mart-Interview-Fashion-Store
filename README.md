@@ -1,5 +1,3 @@
-Below is an updated version of your README with your logo featured prominently at the top. Simply place your logo file (e.g., `logo.png`) in the project directory (or an appropriate subfolder) and adjust the image path if necessary.
-
 <p align="center">
   <img src="logo.png" alt="E-Commerce Modern Mart Logo" width="200">
 </p>
@@ -87,7 +85,6 @@ From sleek suits to subtle jewelry, this platform offers a smooth and intuitive 
 │   └── 👥 users.json
 ├── 🖼️ images/
 └── 📄 README.md
-```
 
 ---
 
@@ -138,4 +135,3 @@ This is important due to GitHub’s file size limitations (project size: ~52MB).
 ## 📬 Contact
 Have questions or feedback?  
 📧 Email us at: [lazarusrolando399@gmail.com](mailto:lazarusrolando399@gmail.com)
-```
