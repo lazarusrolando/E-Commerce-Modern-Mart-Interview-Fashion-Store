@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="E-Commerce Modern Mart Logo" width="200">
+  <img src="https://i.shgcdn.com/47202cbf-2285-4786-8188-c2ce52c50c4b/-/format/auto/-/preview/3000x3000/-/quality/lighter/" alt="E-Commerce Modern Mart Logo" width="200">
 </p>
 
 # ✨🛍️ **E-Commerce Modern Mart – Interview Fashion Store** 👔💼  
