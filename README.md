@@ -75,15 +75,25 @@ From sleek suits to subtle jewelry, this platform offers a smooth and intuitive 
 
 ## 📁 Project Structure
 📦 E-Commerce-Modern-Mart
+
 ├── 📄 index.html
+
 ├── 📁 styles/
+
 │   └── 🎨 style.css
+
 ├── 📁 scripts/
+
 │   └── 📜 main.js
+
 ├── 📁 data/
+
 │   ├── 📦 products.json
+
 │   └── 👥 users.json
+
 ├── 🖼️ images/
+
 └── 📄 README.md
 
 ---
