@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logout</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="icon" href="../images/apple.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="logout-container">
+        <div class="logout-card">
+            <div class="logout-icon">
+                <i class="fas fa-sign-out-alt"></i>
+            </div>
+            <h2>Are you sure you want to logout?</h2>
+            <div class="logout-actions">
+                <button class="btn-primary" onclick="logout()">
+                    Yes, Logout
+                </button>
+                <button class="btn-secondary" onclick="window.history.back()">
+                    Cancel
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function logout() {
+            // Add logout functionality here
+            window.location.href = "../index.html";
+        }
+    </script>
+</body>
+</html>
